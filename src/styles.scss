@@ -27,6 +27,8 @@ body {
   }
   ol {
     margin-left: 0;
+    height: 200px;
+    overflow: auto;
     li {
       align-items: center;
       display: flex;
